@@ -17,10 +17,55 @@
 
 ### Tecnologías que manejo 👨🏻‍💻
 <p align="center">
+  <!-- Lenguajes de Programación -->
+  <b>Lenguajes de Programación</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" alt="Tecnologías" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,php,py,dart,js" alt="Lenguajes de Programación" />
+  </a>
+  <br><br>
+  
+  <!-- Frameworks y Herramientas -->
+  <b>Frameworks y Herramientas</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dotnet,nodejs,materialui,gtk" alt="Frameworks y Herramientas" />
+  </a>
+  <br><br>
+  
+  <!-- Bases de Datos -->
+  <b>Bases de Datos</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" alt="Bases de Datos" />
+  </a>
+  <br><br>
+  
+  <!-- IDEs y Editores -->
+  <b>IDEs y Editores</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,eclipse,vscode" alt="IDEs y Editores" />
+  </a>
+  <br><br>
+  
+  <!-- Herramientas DevOps -->
+  <b>Herramientas DevOps</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git,github,bash" alt="Herramientas DevOps" />
+  </a>
+  <br><br>
+  
+  <!-- Sistemas Operativos -->
+  <b>Sistemas Operativos</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux" alt="Sistemas Operativos" />
+  </a>
+  <br><br>
+  
+  <!-- Diseño y Multimedia -->
+  <b>Diseño y Multimedia</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ai,ps" alt="Diseño y Multimedia" />
   </a>
 </p>
+
 
 ---
 
