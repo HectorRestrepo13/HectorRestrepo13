@@ -7,66 +7,61 @@
 
 ---
 
-### Sobre mí 😃
-🎓 **Tecnólogo en Análisis y Desarrollo de Software**  
-💻 **Un año de experiencia en el desarrollo de software.**  
-📝 Roles desempeñados: desarrollador, líder, arquitecto, cofundador, emprendedor, programador freelance... ¡y lo que el futuro traiga!  
-📫 **Contacto:** [hector.fabio20034@gmail.com](mailto:hector.fabio20034@gmail.com)
+### About Me 😃
+🎓 **Technologist in Software Analysis and Development**  
+💻 **One year of experience in software development.**  
+📝 Roles performed: developer, leader, architect, co-founder, entrepreneur, freelance programmer... and who knows what the future holds!  
+📫 **Contact:** [hector.fabio20034@gmail.com](mailto:hector.fabio20034@gmail.com)
 
 ---
 
-### Tecnologías que manejo 👨🏻‍💻
+### Technologies I Work With 👨🏻‍💻
 <p align="center">
-  <!-- Lenguajes de Programación -->
-  <b>Lenguajes de Programación</b><br>
+  <!-- Programming Languages -->
+  <b>Programming Languages</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,js,php,py" alt="Lenguajes de Programación" />
+    <img src="https://skillicons.dev/icons?i=cs,js,php,py" alt="Programming Languages" />
   </a>
   <br><br>
   
-  <!-- Frameworks y Librerías -->
-  <b>Frameworks y Librerías</b><br>
+  <!-- Frameworks and Libraries -->
+  <b>Frameworks and Libraries</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,dotnet,laravel" alt="Frameworks y Librerías" />
+    <img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,dotnet,laravel" alt="Frameworks and Libraries" />
   </a>
   <br><br>
   
-  <!-- Bases de Datos -->
-  <b>Bases de Datos</b><br>
+  <!-- Databases -->
+  <b>Databases</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Bases de Datos" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases" />
   </a>
   <br><br>
   
-  <!-- Entornos de Desarrollo -->
-  <b>Entornos de Desarrollo</b><br>
+  <!-- Development Environments -->
+  <b>Development Environments</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio" alt="Entornos de Desarrollo" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio" alt="Development Environments" />
   </a>
   <br><br>
   
-  <!-- Herramientas y Control de Versiones -->
-  <b>Herramientas y Control de Versiones</b><br>
+  <!-- Tools and Version Control -->
+  <b>Tools and Version Control</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,github" alt="Herramientas y Control de Versiones" />
+    <img src="https://skillicons.dev/icons?i=docker,git,github" alt="Tools and Version Control" />
   </a>
   <br><br>
   
-  <!-- Tecnologías Especializadas -->
-  <b>Tecnologías Especializadas</b><br>
+  <!-- Specialized Technologies -->
+  <b>Specialized Technologies</b><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio Community" />
   </a>
-  
 </p>
 
-
 ---
 
-
----
-
-### Conéctate conmigo 🤝
+### Connect With Me 🤝
 <p align="center">
   <!-- Gmail -->
   <a href="mailto:hector.fabio20034@gmail.com" target="_blank">
@@ -83,5 +78,3 @@
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/120px-Instagram_logo_2016.svg.png" alt="Instagram" height="50" width="50" />
   </a>
 </p>
-
-
