@@ -57,9 +57,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio Community" />
   </a>
-  <p align="center">
-    Visual Basic, B4A
-  </p>
+  
 </p>
 
 
