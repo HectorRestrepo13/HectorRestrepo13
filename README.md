@@ -75,7 +75,7 @@
   
   <!-- Facebook -->
   <a href="https://www.facebook.com/share/1YFBWyKEZR/?mibextid=LQQJ4d" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Facebook_icon_%282020%29.svg/120px-Facebook_icon_%282020%29.svg.png" alt="Facebook" height="50" width="50" />
+    <img align="center" src="https://thecodegarden.blob.core.windows.net/shared/f_logo_RGB-Blue_250.png" alt="Facebook" height="50" width="50" />
   </a>
   
   <!-- Instagram -->
