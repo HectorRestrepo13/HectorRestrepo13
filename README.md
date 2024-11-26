@@ -20,50 +20,46 @@
   <!-- Lenguajes de Programación -->
   <b>Lenguajes de Programación</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,php,py,dart,js" alt="Lenguajes de Programación" />
+    <img src="https://skillicons.dev/icons?i=cs,js,php,py" alt="Lenguajes de Programación" />
   </a>
   <br><br>
   
-  <!-- Frameworks y Herramientas -->
-  <b>Frameworks y Herramientas</b><br>
+  <!-- Frameworks y Librerías -->
+  <b>Frameworks y Librerías</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dotnet,nodejs,materialui,gtk" alt="Frameworks y Herramientas" />
+    <img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,dotnet,laravel" alt="Frameworks y Librerías" />
   </a>
   <br><br>
   
   <!-- Bases de Datos -->
   <b>Bases de Datos</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" alt="Bases de Datos" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Bases de Datos" />
   </a>
   <br><br>
   
-  <!-- IDEs y Editores -->
-  <b>IDEs y Editores</b><br>
+  <!-- Entornos de Desarrollo -->
+  <b>Entornos de Desarrollo</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,eclipse,vscode" alt="IDEs y Editores" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio" alt="Entornos de Desarrollo" />
   </a>
   <br><br>
   
-  <!-- Herramientas DevOps -->
-  <b>Herramientas DevOps</b><br>
+  <!-- Herramientas y Control de Versiones -->
+  <b>Herramientas y Control de Versiones</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,github,bash" alt="Herramientas DevOps" />
+    <img src="https://skillicons.dev/icons?i=docker,git,github" alt="Herramientas y Control de Versiones" />
   </a>
   <br><br>
   
-  <!-- Sistemas Operativos -->
-  <b>Sistemas Operativos</b><br>
+  <!-- Tecnologías Especializadas -->
+  <b>Tecnologías Especializadas</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux" alt="Sistemas Operativos" />
+    <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio Community" />
   </a>
-  <br><br>
-  
-  <!-- Diseño y Multimedia -->
-  <b>Diseño y Multimedia</b><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ai,ps" alt="Diseño y Multimedia" />
-  </a>
+  <p align="center">
+    Visual Basic, B4A
+  </p>
 </p>
 
 
