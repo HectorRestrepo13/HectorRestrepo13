@@ -1,5 +1,10 @@
-<h1 align="center">Hi there, I'm Hector Restrepo 👋</h1>
-<h3 align="center">Software Developer | Web Development | Integrations | Business Solutions</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Hector%20Restrepo&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Backend%20%7C%20Integrations%20%7C%20Business%20Solutions&descAlignY=58&descSize=18" alt="Hector Restrepo banner" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Hector+Restrepo;Software+Developer;Backend+%7C+Web+Development+%7C+Integrations;Always+learning+new+technologies" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="mailto:hector.fabio20034@gmail.com">
@@ -18,9 +23,9 @@
 ## 👨‍💻 About Me
 
 - 🎓 Technologist in Software Analysis and Development
-- 💼 Software developer with experience building web applications and business solutions
-- 🚀 Interested in backend development, integrations, databases, and software architecture
-- 📚 Always learning and improving my skills as a developer
+- 💼 Software developer focused on web applications, business solutions, and system integrations
+- 🚀 Interested in backend development, databases, APIs, and software architecture
+- 📚 Constantly learning and improving as a developer
 - 📫 Contact: **hector.fabio20034@gmail.com**
 
 ---
@@ -53,18 +58,18 @@
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=HectorRestrepo13&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HectorRestrepo13&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TU_USUARIO_GITHUB&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=HectorRestrepo13&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🤝 Connect With Me
 
-<p>
+<p align="center">
   <a href="mailto:hector.fabio20034@gmail.com">Email</a> •
   <a href="https://www.facebook.com/share/1YFBWyKEZR/?mibextid=LQQJ4d">Facebook</a> •
   <a href="https://instagram.com/hector_restrepo1388">Instagram</a>
@@ -73,5 +78,13 @@
 ---
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HectorRestrepo13&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
   Thanks for visiting my profile 🚀
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" />
 </p>
